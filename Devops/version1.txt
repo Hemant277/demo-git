@@ -1,6 +1,9 @@
 This is first feature
 <<<<<<< HEAD
-This is gadbad code
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of bea710c (Added gadbad)
 
 =======
 >>>>>>> parent of c4d9b9b (Added new feature2)
