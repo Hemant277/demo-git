@@ -1,3 +1,6 @@
-This is the bug fix in the development branch
 This is first feature
+<<<<<<< HEAD
+This is gadbad code
 
+=======
+>>>>>>> parent of c4d9b9b (Added new feature2)
